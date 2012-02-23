@@ -11,7 +11,7 @@ A quick script for splitting up Apple EFI fat binaries into their individual per
 
 ### Usage
 
-    $ ./efi_lipo.py /System/Library/CoreServices/boot.efi 
+    $ ./efi_lipo.py SmcFlasher.efi 
     processing 'SmcFlasher.efi'
     this is an EFI fat binary with 2 architectures
     architecture 0 (X86):
