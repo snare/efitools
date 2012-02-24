@@ -4,7 +4,7 @@ efitools
 A few tools for doing stuff to EFI-related things. Well, eventually it will be a few. For now it's just one.
 
 
-fatsplit.py
+efi_lipo.py
 -----------
 
 A quick script for splitting up Apple EFI fat binaries into their individual per-architecture binary sections.
