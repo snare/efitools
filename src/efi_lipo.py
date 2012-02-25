@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-fatsplit.py - split Apple's EFI fat binaries into PE files that IDA Pro understands
+efi_lipo.py - split Apple's EFI fat binaries into PE files that IDA Pro understands
 
 the EFI fat header looks something like this:
 
